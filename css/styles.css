@@ -76,3 +76,10 @@ body {
   top: 880px;
   left: 100px;
 }
+
+.it {
+  position: absolute;
+  height: 50%;
+  top: 200px;
+  left: 100px;
+}
