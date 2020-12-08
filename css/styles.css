@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'dm_serif_displayregular';
+    src: url('dmserifdisplay-regular-webfont.woff2') format('woff2'),
+         url('dmserifdisplay-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_serif_displayitalic';
+    src: url('dmserifdisplay-italic-webfont.woff2') format('woff2'),
+         url('dmserifdisplay-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+  background-color: #020300;
+}
+
+.logo {
+  font-family: "dm_serif_displayregular";
+  color: #fefefe;
+  font-size: 50px;
+}
+
+.logo_pos {
+  position: relative;
+  left: 100px;
+  top: 10px;
+}
+
+.line {
+    margin: 30px -20px 20px;
+    border: 0;
+    border-top: 1px solid #c9c7c7;
+    width: 100%;
+}
