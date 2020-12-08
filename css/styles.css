@@ -54,6 +54,7 @@ body {
 
 
 .sarah_header {
+  font-family: "dm_serif_displayitalic";
   top: 150px;
   left: 100px;
   color: #fdca40;
@@ -62,9 +63,16 @@ body {
 }
 
 .sarah_text {
+  font-family: "dm_serif_displayregular";
   top: 230px;
   left: 100px;
   color: #fefefe;
   font-size: 15px;
   position: absolute;
+}
+
+.gif {
+  position: absolute;
+  top: 240px;
+  left: 500px;
 }
