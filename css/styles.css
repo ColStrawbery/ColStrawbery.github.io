@@ -52,10 +52,19 @@ body {
     width: 100%;
 }
 
-.sarah {
+
+.sarah_header {
+  top: 150px;
+  left: 100px;
   color: #fdca40;
   font-size: 30px;
   position: absolute;
-  top: 150px;
+}
+
+.sarah_text {
+  top: 230px;
   left: 100px;
+  color: #fefefe;
+  font-size: 15px;
+  position: absolute;
 }
