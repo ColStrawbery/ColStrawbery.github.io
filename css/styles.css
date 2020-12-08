@@ -29,11 +29,12 @@ body {
 .logo_pos {
   position: relative;
   left: 100px;
-  top: 10px;
+  top: 5px;
 }
 
 .line {
-    margin: 30px -20px 20px;
+    position: absolute;
+    margin: 0;
     border: 0;
     border-top: 1px solid #c9c7c7;
     width: 100%;
