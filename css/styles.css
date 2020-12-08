@@ -18,6 +18,8 @@
 
 body {
   background-color: #020300;
+  margin: 0;
+  overflow-x: hidden;
 }
 
 .logo {
@@ -27,15 +29,17 @@ body {
 }
 
 .logo_pos {
-  position: relative;
+  position: absolute;
   left: 100px;
-  top: 5px;
+  top: -10px;
 }
 
 .line {
     position: absolute;
-    margin: 0;
+    top: 100px;
+    margin-left: -8px;
+    margin-right: -8px;
     border: 0;
-    border-top: 1px solid #c9c7c7;
+    border-top: 1px solid #2e2e2e;
     width: 100%;
 }
