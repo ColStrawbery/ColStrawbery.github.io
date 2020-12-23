@@ -22,9 +22,10 @@ body {
   overflow-x: hidden;
 }
 
-.lick{
-  margin: 0 auto;
-  width: 1080px;
+.lick {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
 }
 
 .burger {
