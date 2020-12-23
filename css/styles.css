@@ -22,6 +22,12 @@ body {
   overflow-x: hidden;
 }
 
+.lick{
+  position: absolute;
+  vertical-align: middle;
+  align-items: center;
+}
+
 .burger {
   position: absolute;
   left: 20px;
